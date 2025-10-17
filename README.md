@@ -33,7 +33,7 @@ Indian Institute of Technology
 ### 📂 Google Drive Link
 **Access all project materials:**
 
-🔗 **[AI Room Guard - Complete Project Files](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
+🔗 **[AI Room Guard - Google Drive Link](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
 
 **Contents:**
 - 📹 **Demonstration Video** - Full system walkthrough and testing scenarios
