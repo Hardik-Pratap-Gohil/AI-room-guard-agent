@@ -176,12 +176,12 @@ AI-ROOM-GUARD/
 ├── main_guard_system.py          # Main orchestrator
 ├── EnhancedSpeechRecognition.py  # Speech recognition module
 ├── LLMConversationAgent.py       # LLM conversation logic
-├── TexttoSpeech.py                # TTS output module
-├── VoiceEnrollment.py             # Enrollment system
+├── TexttoSpeech.py               # TTS output module
+├── VoiceEnrollment.py            # Enrollment system
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
-├── EE782 ASSIGMENT 2 REPORT.pdf                     # Technical report
+├── EE782 ASSIGMENT 2 REPORT.pdf   # Technical report
 │
 ├── embeddings.pkl                 # Face database (generated)
 ├── events.log                     # System event log (generated)
