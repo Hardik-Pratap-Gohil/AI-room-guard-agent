@@ -8,17 +8,24 @@ An intelligent room security system that seamlessly integrates computer vision, 
 ---
 
 ## 📋 Table of Contents
-
+- [Contributors](#contributors)
 - [Features](#features)
 - [Demo & Documentation](#demo--documentation)
 - [Quick Start](#quick-start)
-- [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Voice Commands](#voice-commands)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
+
+
+---
+## 👥 Contributors
+
+**[Saptarshi Biswas]**  Roll No: [22B1258]  
+**[Hardik Gohil]**  Roll No: [22B1293]  
+Department of Electrical Engineering  
+Indian Institute of Technology
 
 ---
 
@@ -46,14 +53,12 @@ An intelligent room security system that seamlessly integrates computer vision, 
 ### 📂 Google Drive Link
 **Access all project materials:**
 
-🔗 **[AI Room Guard - Complete Project Files](YOUR_DRIVE_LINK_HERE)**
+🔗 **[AI Room Guard - Complete Project Files](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
 
 **Contents:**
 - 📹 **Demonstration Video** - Full system walkthrough and testing scenarios
 - 🎥 **Explanation Video** - Technical architecture and implementation details
 - 📄 **Project Report (PDF)** - Comprehensive technical documentation
-- 📊 **Presentation Slides** - Project overview and results
-- 🖼️ **Screenshots** - System interface and event logs
 - 📁 **Source Code** - Complete implementation files
 
 ---
@@ -80,22 +85,6 @@ set GEMINI_API_KEY=your-api-key-here  # Windows
 # 5. Run the system
 python main_guard_system.py
 ```
-
----
-
-## 💻 System Requirements
-
-### Hardware
-- 🎥 Webcam (720p or higher recommended)
-- 🎤 Microphone (built-in or external)
-- 🔊 Speakers or headphones
-- 💾 RAM: 4GB minimum, 8GB recommended
-- 🖥️ CPU: Multi-core processor (Intel i5 or equivalent)
-
-### Software
-- 🐍 Python 3.13
-- 🌐 Internet connection (for speech recognition and LLM API)
-- 🖥️ Operating System: Windows 10/11, macOS 10.14+, or Linux
 
 ---
 
@@ -199,9 +188,6 @@ ai-room-guard/
 ├── events.log                     # System event log (generated)
 │
 ├── snapshots/                     # Captured images
-│   ├── Saptarshi_20251014.jpg
-│   └── unknown_20251014.jpg
-│
 └── captures/                      # Enrollment photos
 ```
 
@@ -214,9 +200,7 @@ ai-room-guard/
 | **"Enroll"** | Start enrollment process for new trusted person |
 | **"Guard mode on"** | Activate room monitoring |
 | **"Guard mode off"** | Deactivate monitoring and return to idle |
-| **"Bye"** / **"Goodbye"** | Exit trusted conversation mode |
-| **Press 'q'** | Quit video window (also deactivates guard) |
-| **Ctrl+C** | Emergency shutdown |
+| **"Bye"** / **"Goodbye"**| Exit trusted conversation mode |
 
 ---
 
@@ -257,39 +241,12 @@ RECOGNITION_THRESHOLD = 0.4  # Lower = stricter (try 0.35)
 
 ---
 
-## 📊 Performance Metrics
-
-- ✅ **Voice Command Accuracy:** 94.5% (exceeds 90% requirement)
-- ✅ **Face Recognition Accuracy:** 87% (exceeds 80% requirement)
-- ✅ **Conversation Quality:** 100% coherent multi-turn dialogues
-- ✅ **Escalation Logic:** 4-level system with natural progression
-- ✅ **Impersonation Detection:** 100% detection rate
-
----
-
 ## 🎓 Academic Context
 
-**Course:** EE782 - [Course Name]  
+**Course:** EE782 - [Advanced ]  
 **Institution:** Indian Institute of Technology  
 **Project Type:** Multimodal AI Security Agent  
-**Submission Date:** [Your Date]
-
-### Evaluation Criteria Coverage
-- ✅ System Design & Integration (5/5 points)
-- ✅ Robustness of Logic (4/4 points)
-- ✅ Creativity in Interaction Design (3/3 points)
-- ✅ Documentation Clarity (3/3 points)
-- ✅ Bonus Features (+1.5 points)
-
----
-
-## 👥 Contributors
-
-**[Your Name]**  
-Roll No: [Your Roll Number]  
-Email: [Your Email]  
-Department of Electrical Engineering  
-Indian Institute of Technology
+**Submission Date:** [13/10/2025]
 
 ---
 
@@ -299,22 +256,3 @@ This project is submitted as part of academic coursework for EE782.
 
 ---
 
-## 🙏 Acknowledgments
-
-- Course instructors for guidance and feedback
-- Google AI for Gemini API access
-- Open-source community (face_recognition, OpenCV, etc.)
-- Testing volunteers
-
----
-
-## 📞 Contact & Support
-
-For questions or issues:
-- 📧 Email: [Your Email]
-- 📂 Drive Link: [Your Drive Link]
-- 📝 Report Issues: See `Troubleshooting` section above
-
----
-
-**Built with ❤️ for EE782 | AI Room Guard System v1.0**
