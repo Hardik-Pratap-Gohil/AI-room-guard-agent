@@ -36,9 +36,9 @@ Indian Institute of Technology
 🔗 **[AI Room Guard - Google Drive Link](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
 
 **Contents:**
-- 📹 **Demonstration Video** - Full system walkthrough and testing scenarios
-- 🎥 **Explanation Video** - Technical architecture and implementation details
-- 📄 **Project Report (PDF)** - Comprehensive technical documentation
+- 📹 **Demonstration Video** - Working of our model
+- 🎥 **Explanation Video** -  Full system walkthrough
+- 📄 **Project Report (PDF)** - Documentation
 - 📁 **Source Code** - Complete implementation files
 
 ---
@@ -171,7 +171,7 @@ python -c "import cv2; print('✓ OpenCV ready')"
 ## 📁 Project Structure
 
 ```
-ai-room-guard/
+AI-ROOM-GUARD/
 │
 ├── main_guard_system.py          # Main orchestrator
 ├── EnhancedSpeechRecognition.py  # Speech recognition module
@@ -181,7 +181,7 @@ ai-room-guard/
 │
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
-├── report.pdf                     # Technical report
+├── EE782 ASSIGMENT 2 REPORT.pdf                     # Technical report
 │
 ├── embeddings.pkl                 # Face database (generated)
 ├── events.log                     # System event log (generated)
