@@ -9,8 +9,8 @@ An intelligent room security system that seamlessly integrates computer vision, 
 
 ## 📋 Table of Contents
 - [Contributors](#contributors)
-- [Features](#features)
 - [Demo & Documentation](#demo--documentation)
+- [Features](#features)
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,6 +26,20 @@ An intelligent room security system that seamlessly integrates computer vision, 
 **[Hardik Gohil]**  Roll No: [22B1293]  
 Department of Electrical Engineering  
 Indian Institute of Technology
+
+---
+## 🎬 Demo & Documentation
+
+### 📂 Google Drive Link
+**Access all project materials:**
+
+🔗 **[AI Room Guard - Complete Project Files](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
+
+**Contents:**
+- 📹 **Demonstration Video** - Full system walkthrough and testing scenarios
+- 🎥 **Explanation Video** - Technical architecture and implementation details
+- 📄 **Project Report (PDF)** - Comprehensive technical documentation
+- 📁 **Source Code** - Complete implementation files
 
 ---
 
@@ -45,21 +59,6 @@ Indian Institute of Technology
 - 🎯 **Multi-Pose Enrollment** - 6 photos captured automatically with voice guidance
 - 🔊 **Adaptive Voice Modes** - Normal, Friendly, and Alert TTS modes
 - 💬 **Trusted Conversations** - Chat with the guard about room activity
-
----
-
-## 🎬 Demo & Documentation
-
-### 📂 Google Drive Link
-**Access all project materials:**
-
-🔗 **[AI Room Guard - Complete Project Files](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
-
-**Contents:**
-- 📹 **Demonstration Video** - Full system walkthrough and testing scenarios
-- 🎥 **Explanation Video** - Technical architecture and implementation details
-- 📄 **Project Report (PDF)** - Comprehensive technical documentation
-- 📁 **Source Code** - Complete implementation files
 
 ---
 
@@ -243,7 +242,7 @@ RECOGNITION_THRESHOLD = 0.4  # Lower = stricter (try 0.35)
 
 ## 🎓 Academic Context
 
-**Course:** EE782 - [Advanced ]  
+**Course:** EE782 - [Advanced Topics in Machine Learning]  
 **Institution:** Indian Institute of Technology  
 **Project Type:** Multimodal AI Security Agent  
 **Submission Date:** [13/10/2025]
