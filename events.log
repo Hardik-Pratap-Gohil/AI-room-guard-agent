@@ -1,0 +1,19 @@
+2025-10-14 00:09:55 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-14 00:10:07 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-14 00:10:07 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251014_001007.jpg
+2025-10-14 00:10:57 | [INTRUDER_SPEECH] Intruder said: 'I am Saptarshi and I am here to meet Hardik'
+2025-10-14 00:11:18 | [INTRUDER_SPEECH] Intruder said: 'I am here to do a project with him'
+2025-10-14 00:11:44 | [INTRUDER_SPEECH] Intruder said: 'so it's a machine learning project we have a submission today'
+2025-10-14 00:12:14 | [INTRUDER_SPEECH] Intruder said: 'so basically there is a face recognition and a text to speech and some deep learning concepts used'
+2025-10-14 00:12:38 | [INTRUDER_SPEECH] Intruder said: 'as far as I know face recognition library was used to detect and who is there'
+2025-10-14 00:12:38 | [INTRUDER_ACCEPTED] Intruder accepted: Visitor
+2025-10-14 00:13:00 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-14 00:13:00 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251014_001300.jpg
+2025-10-14 00:21:57 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-14 00:22:11 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-14 00:22:11 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251014_002211.jpg
+2025-10-14 00:22:46 | [INTRUDER_SPEECH] Intruder said: 'you know what I have'
+2025-10-14 00:23:19 | [INTRUDER_SPEECH] Intruder said: 'it's none of your business'
+2025-10-14 00:23:39 | [INTRUDER_SPEECH] Intruder said: 'no I won't'
+2025-10-14 00:23:48 | [ALARM] ALARM TRIGGERED - Intruder (Unknown) refused to cooperate
+
