@@ -1,7 +1,7 @@
 # AI-room-guard-agent
 # 🛡️ AI Room Guard System
 
-**EE782 Course Project - Multimodal AI Security Agent**
+**EE782 Assignment 2 - Multimodal AI Security Agent**
 
 An intelligent room security system that seamlessly integrates computer vision, speech recognition, and large language models to provide autonomous monitoring and intelligent intruder interrogation.
 
@@ -14,7 +14,7 @@ An intelligent room security system that seamlessly integrates computer vision, 
 - [Quick Start](#quick-start)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Assignment Structure](#Assignment-structure)
 - [Voice Commands](#voice-commands)
 - [Troubleshooting](#troubleshooting)
 
@@ -31,14 +31,14 @@ Indian Institute of Technology
 ## 🎬 Demo & Documentation
 
 ### 📂 Google Drive Link
-**Access all project materials:**
+**Access all Assignment materials:**
 
 🔗 **[AI Room Guard - Google Drive Link](https://drive.google.com/drive/folders/1dZWImLHd79YLuh4QIpff5y13IcPj-VlT?usp=drive_link)**
 
 **Contents:**
 - 📹 **Demonstration Video** - Working of our model
 - 🎥 **Explanation Video** -  Full system walkthrough
-- 📄 **Project Report (PDF)** - Documentation
+- 📄 **Assignment Report (PDF)** - Documentation
 - 📁 **Source Code** - Complete implementation files
 
 ---
@@ -168,7 +168,7 @@ python -c "import cv2; print('✓ OpenCV ready')"
 
 ---
 
-## 📁 Project Structure
+## 📁 Assignment Structure
 
 ```
 AI-ROOM-GUARD/
@@ -243,15 +243,14 @@ RECOGNITION_THRESHOLD = 0.4  # Lower = stricter (try 0.35)
 ## 🎓 Academic Context
 
 **Course:** EE782 - [Advanced Topics in Machine Learning]  
-**Institution:** Indian Institute of Technology  
-**Project Type:** Multimodal AI Security Agent  
+**Institution:** Indian Institute of Technology    
 **Submission Date:** [13/10/2025]
 
 ---
 
 ## 📄 License
 
-This project is submitted as part of academic coursework for EE782.
+This assignment is submitted as part of academic coursework for EE782.
 
 ---
 
