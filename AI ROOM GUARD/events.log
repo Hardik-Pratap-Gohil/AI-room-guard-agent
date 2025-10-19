@@ -1,0 +1,32 @@
+2025-10-18 17:28:03 | [ENROLLMENT] New person enrolled: Hardik
+2025-10-18 17:28:11 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-18 17:28:36 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-18 17:28:36 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251018_172836.jpg
+2025-10-18 17:29:00 | [INTRUDER_SPEECH] Intruder said: 'I am Saptarshi I am here to meet the owner'
+2025-10-18 17:29:14 | [INTRUDER_SPEECH] Intruder said: 'I am here to meet Hardik'
+2025-10-18 17:29:43 | [INTRUDER_SPEECH] Intruder said: 'I am here to do some project'
+2025-10-18 17:33:08 | [ENROLLMENT] New person enrolled: Hardik
+2025-10-18 17:34:59 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-18 17:35:10 | [TRUSTED_ENTRY] Trusted person detected: Hardik
+2025-10-18 17:35:10 | [SNAPSHOT] Snapshot: Hardik -> snapshots\Hardik_20251018_173510.jpg
+2025-10-18 17:36:13 | [TRUSTED_ENTRY] Trusted person detected: Hardik
+2025-10-18 17:36:13 | [SNAPSHOT] Snapshot: Hardik -> snapshots\Hardik_20251018_173613.jpg
+2025-10-18 18:11:27 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-18 18:11:43 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-18 18:11:43 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251018_181143.jpg
+2025-10-18 18:12:06 | [INTRUDER_SPEECH] Intruder said: 'it's none of your business'
+2025-10-18 18:12:30 | [INTRUDER_SPEECH] Intruder said: 'I don't want to tell you who I am'
+2025-10-18 18:12:52 | [INTRUDER_SPEECH] Intruder said: 'you tell me who are you'
+2025-10-18 18:13:01 | [ALARM] ALARM TRIGGERED - Intruder (Unknown) refused to cooperate
+2025-10-19 04:02:22 | [GUARD_ACTIVATED] Guard mode activated - monitoring for 1 trusted person(s)
+2025-10-19 04:02:38 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-19 04:02:38 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251019_040238.jpg
+2025-10-19 04:03:05 | [INTRUDER_SPEECH] Intruder said: 'hi I am Saptarshi and I am here to meet the owner'
+2025-10-19 04:03:20 | [INTRUDER_SPEECH] Intruder said: 'the owners name is Hardik'
+2025-10-19 04:03:40 | [INTRUDER_SPEECH] Intruder said: 'we have a meeting on a project'
+2025-10-19 04:04:03 | [INTRUDER_SPEECH] Intruder said: 'it's just a machine learning project'
+2025-10-19 04:04:21 | [INTRUDER_SPEECH] Intruder said: 'we are using Text To Speech and face recognition on this'
+2025-10-19 04:04:21 | [INTRUDER_ACCEPTED] Intruder accepted: Visitor
+2025-10-19 04:04:28 | [INTRUDER_DETECTED] Unknown person detected - starting interrogation
+2025-10-19 04:04:28 | [SNAPSHOT] Snapshot: unknown -> snapshots\unknown_20251019_040428.jpg
+
